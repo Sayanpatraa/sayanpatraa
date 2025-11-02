@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, world! I’m <b>Sayan Patra</b>.</h1>
+<h1 align="left"> Hello, world! I’m <b>Sayan Patra</b>.</h1>
 
 ---
 ###  MS in Data Science | George Washington University  
