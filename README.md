@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, world! I’m <b>Sayan Patra</b> </h1>
+<h1 align="center"> Hello, world! I’m <b>Sayan Patra</b> </h1>
 
 ---
 
