@@ -33,6 +33,8 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLTK-154D7E?style=for-the-badge&logo=nltk&logoColor=white"/>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
 
 ###  Databases  
@@ -108,15 +110,15 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 ##  Contact Details
 
 <p align="left">
-  <a href="mailto:sayan.patra@gwmail.gwu.edu">
+  <p href="mailto:sayan.patra@gwmail.gwu.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sayan-p-13a76a241/">
+  </p>
+  <p href="https://www.linkedin.com/in/sayan-p-13a76a241/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/sayanpatraa">
+  </p>
+  <p href="https://github.com/sayanpatraa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
+  </p>
 </p>
 
 
