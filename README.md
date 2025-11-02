@@ -1,7 +1,7 @@
 # **Sayan Patra**
 
 ###  MS in Data Science | George Washington University  
-**Research Interests:** Predictive Modeling • Natural Language Processing • Theoretical Deep Learning • Deep Learning Applications • Topological Data Analysis  
+**Research Interests:** Predictive Modeling • Natural Language Processing • Theoretical Deep Learning • Deep Learning Applications • Topological Data Analysis • Convolutional Neural Networks   
 
 ---
 
