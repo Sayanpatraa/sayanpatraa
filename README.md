@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, world!</h1>
+<h1 align="center"> Hello, world!</h1>
 <h2 align="center">I’m <b>Sayan Patra</b> — welcome to my world.</h2>
 
 
