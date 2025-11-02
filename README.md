@@ -6,7 +6,7 @@
 ---
 
 ##  Summary  
-Highly motivated Data Science professional with a strong academic background in **mathematics** and hands-on experience in **machine learning**, **data analysis**, **finance** , **business strategy** and **data visualization**.  
+Highly motivated Data Science professional with a strong academic background in **mathematics** and hands-on experience in **machine learning**, **data analysis**, **financial modelling** , **business strategy** and **data visualization**.  
 Proficient in multiple programming languages and frameworks, with a proven ability to deliver insights and results in fast-paced, data-driven environments.  
 Seeking opportunities that leverage my technical and analytical expertise to drive **business growth** and solve **complex real-world problems**.
 
