@@ -69,8 +69,10 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 
 ##  Professional Experience   
 
+## 💼 Professional Experience  
+
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/George_Washington_University_seal.svg" width="60" align="left" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/George_Washington_University_logo.svg/320px-George_Washington_University_logo.svg.png" width="90" align="left" />
   <strong>Graduate Instructional Assistant</strong><br/>
   <em>George Washington University</em><br/>
   • Supported graduate coursework in Machine Learning.<br/>
@@ -82,7 +84,7 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 ---
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="80" align="left" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="90" align="left" />
   <strong>Associate</strong><br/>
   <em>Amazon</em><br/>
   • Analyzed eCommerce transaction patterns to improve business strategy and concessions.
@@ -93,7 +95,7 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 ---
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/24/ICICI_Bank_Logo.svg" width="70" align="left" />
+  <img src="https://companieslogo.com/img/orig/ICICIBANK.NS_BIG-33b6c4b2.png?t=1720244495" width="85" align="left" />
   <strong>Authorized Person (Sub-Broker)</strong><br/>
   <em>ICICI Securities Private Limited</em><br/>
   • Managed client portfolios and performed technical analysis on derivatives.<br/>
