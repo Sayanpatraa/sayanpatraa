@@ -28,6 +28,7 @@ MySQL • MongoDB
 
 **NLP Frameworks**
 Spacy • NLTK
+
 **Cloud Platforms:**  
 Google Cloud Platform (GCP) • Microsoft Azure • Amazon Web Services (AWS)  
 
