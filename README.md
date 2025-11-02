@@ -70,41 +70,20 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 ##  Professional Experience   
   
 
-## 💼 Professional Experience  
-
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/GWU_Wordmark.png" width="120" align="left" />
-  <strong>Graduate Instructional Assistant</strong><br/>
-  <em>George Washington University</em><br/>
-  • Supported graduate coursework in Machine Learning.<br/>
-  • Assisted in grading, debugging student code, and developing learning materials.
-</p>
-
-<br clear="left"/>
+### Graduate Instructional Assistant — The George Washington University  
+- Supported graduate coursework in Machine Learning.  
+- Assisted in grading, debugging student code, and developing learning materials.  
 
 ---
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="110" align="left" />
-  <strong>Associate</strong><br/>
-  <em>Amazon</em><br/>
-  • Analyzed eCommerce transaction patterns to improve business strategy and concessions.
-</p>
-
-<br clear="left"/>
+### Associate — Amazon  
+- Analyzed eCommerce transaction patterns to improve business strategy and concessions.  
 
 ---
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/10/ICICI_Bank_Logo.png" width="100" align="left" />
-  <strong>Authorized Person (Sub-Broker)</strong><br/>
-  <em>ICICI Securities Private Limited</em><br/>
-  • Managed client portfolios and performed technical analysis on derivatives.<br/>
-  • Provided advisory support for retail investment strategies.
-</p>
-
-<br clear="left"/>
-
+### Authorized Person — ICICI Securities Private Limited  
+- Managed client portfolios and performed technical analysis on derivatives.  
+- Provided advisory support for retail investment strategies.  
 ---
 
 ## Education  
