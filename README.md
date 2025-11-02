@@ -101,7 +101,7 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 ---
 
 ##  Publications  
-- In Progress.
+- In Progress
 
 ---
 
