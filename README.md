@@ -129,6 +129,18 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 ##  About This Portfolio  
 This portfolio highlights my technical skills, academic background, and research interests in **data science and artificial intelligence**.  
 I am passionate about building systems that merge **theoretical understanding** with **practical impact** — from interpretable AI models to real-world data-driven decision systems.  
+Portfolio Update Notice  
+## Note
+My GitHub portfolio is currently being updated.  
+I’m in the process of organizing and uploading the projects completed during my **Master’s in Data Science** at **George Washington University**.  
+
+These repositories will soon showcase work across:  
+- **Machine Learning & Deep Learning**  
+- **Natural Language Processing (NLP)**  
+- **Time Series Forecasting**  
+- **AI-driven Applications and Research**
+
+Stay tuned — more projects and research updates are on the way!
 
 > _"Turning data into decisions, and decisions into meaningful change."_  
 
