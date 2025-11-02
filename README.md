@@ -105,9 +105,9 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 
 ---
 
-##  Contact Centre 
+##  Contact Details
 
-<p align="center">
+<p align="left">
   <a href="mailto:sayan.patra@gwmail.gwu.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
