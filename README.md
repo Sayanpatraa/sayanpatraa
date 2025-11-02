@@ -1,5 +1,5 @@
 <h1 align="left">
-  <span class="typewriter">👋 Hello, world! I’m <b>Sayan Patra</b>.</span>
+  <span class="typewriter"> Hello, world! I’m <b>Sayan Patra</b>.</span>
 </h1>
 
 <style>
