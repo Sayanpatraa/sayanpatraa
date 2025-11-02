@@ -27,7 +27,7 @@ NumPy • Pandas • Matplotlib • Seaborn • Plotly • Tableau • Power BI
 MySQL • MongoDB  
 
 **NLP Frameworks:**
-Spacy • NLTK
+Spacy • NLTK 
 
 **Cloud Platforms:**  
 Google Cloud Platform (GCP) • Microsoft Azure • Amazon Web Services (AWS)  
