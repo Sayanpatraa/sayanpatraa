@@ -107,17 +107,20 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 
 ---
 
-##  Contact Details
+##  Contact
 
 <p align="left">
-  < href="mailto:sayan.patra@gwmail.gwu.edu">
+  <a href="mailto:sayan.patra@gwmail.gwu.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  < href="https://www.linkedin.com/in/sayan-p-13a76a241/">
+  </a>
+  <a href="https://www.linkedin.com/in/sayan-p-13a76a241/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  < href="https://github.com/sayanpatraa">
+  </a>
+  <a href="https://github.com/sayanpatraa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-
+  </a>
 </p>
+
 
 
 
