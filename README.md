@@ -1,5 +1,6 @@
-# Hello, world!
-I’m **Sayan Patra** — welcome to my world.
+<h1 align="center">👋 Hello, world!</h1>
+<h2 align="center">I’m <b>Sayan Patra</b> — welcome to my world.</h2>
+
 
 ###  MS in Data Science | George Washington University  
 **Research Interests:** Predictive Modeling • Natural Language Processing • Theoretical Deep Learning • Deep Learning Applications • Topological Data Analysis • Convolutional Neural Networks • Graph Neural Networks • Time Series Analysis
