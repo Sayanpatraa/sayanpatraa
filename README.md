@@ -69,10 +69,6 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### AI Developer Tools
-<p align="left"> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_Q-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
-</p>
-
 ###  Operating Systems  
 <p align="left">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
