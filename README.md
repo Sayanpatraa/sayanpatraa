@@ -31,6 +31,8 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
   <img src="https://img.shields.io/badge/Matplotlib-006400?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-154D7E?style=for-the-badge&logo=nltk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
 </p>
 
 ###  Databases  
