@@ -95,13 +95,13 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 
 ##  Certifications  
 - AWS Cloud Practitioner *(in progress)*  
-- Six Sigma Black Belt *(planned)*  
- 
+- Six Sigma Black Belt *(planned)*
+- CAPM *(planned)*
 
 ---
 
 ##  Publications  
-- In Progress 
+- In Progress.
 
 ---
 
