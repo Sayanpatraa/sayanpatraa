@@ -139,7 +139,7 @@ This portfolio highlights my technical skills, academic background, and research
 I am passionate about building systems that merge **theoretical understanding** with **practical impact** — from interpretable AI models to real-world data-driven decision systems.  
   
 ### Portfolio Update Notice
-My GitHub portfolio is currently being updated.  
+My GitHub portfolio is currently under construction.  
 I’m in the process of organizing and uploading the projects completed during my **Master’s in Data Science** at **George Washington University**.  
 
 These repositories will soon showcase work across:  
