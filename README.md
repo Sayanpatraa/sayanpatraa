@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?auto=format&fit=crop&w=1600&q=80" width="100%" alt="Golden Gate Bridge at Night"/>
 </p>
-
 <p align="center" style="margin-top:-120px;">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=4500&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&lines=Hello+world!+I'm+Sayan+Patra!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C!+%E6%88%91%E6%98%AF%E8%B5%9B%E6%89%AC%C2%B7%E5%B8%95%E7%89%B9%E6%8B%89!;%C2%A1Hola+mundo!+Soy+Sayan+Patra!;Bonjour+le+monde!+Je+suis+Sayan+Patra!;Hallo+Welt!+Ich+bin+Sayan+Patra!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85!+%D8%A3%D9%86%D8%A7+%D8%B3%D8%A7%D9%8A%D8%A7%D9%86+%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7!" alt="Animated multilingual heading"/>
 </p>
