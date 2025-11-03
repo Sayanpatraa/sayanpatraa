@@ -1,4 +1,7 @@
-<h1 align="center"> Hello, world! I’m <b>Sayan Patra</b> </h1>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=1000&color=1E90FF&width=600&lines=Hello,+world!+I'm+Sayan+Patra.;你好，世界！我是赛扬·帕特拉。;नमस्ते+दुनिया!+मैं+सयान+पात्रा+हूँ।;¡Hola,+mundo!+Soy+Sayan+Patra.;Bonjour,+le+monde!+Je+suis+Sayan+Patra.;مرحباً+بالعالم!+أنا+سايان+باترا." alt="Multilingual animated greeting" />
+</p>
+
 
 ---
 
