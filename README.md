@@ -1,7 +1,6 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=000000&center=false&vCenter=false&repeat=true&width=600&lines=Hello,+world!+I'm+Sayan+Patra.;你好，世界！我是赛扬·帕特拉。;¡Hola,+mundo!+Soy+Sayan+Patra.;Bonjour,+le+monde!+Je+suis+Sayan+Patra.;Hallo,+Welt!+Ich+bin+Sayan+Patra.;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B+%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85!+%D8%A3%D9%86%D8%A7+%D8%B3%D8%A7%D9%8A%D8%A7%D9%86+%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7." alt="Animated multilingual greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=000000&center=false&vCenter=false&repeat=true&width=600&lines=Hello,+world!+I'm+Sayan+Patra.;你好，世界！我是赛扬·帕特拉。;¡Hola,+mundo!+Soy+Sayan+Patra.;Bonjour,+le+monde!+Je+suis+Sayan+Patra.;Hallo,+Welt!+Ich+bin+Sayan+Patra.;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B+%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85!+%D8%A3%D9%86%D8%A7+%D8%B3%D8%A7%D9%8A%D8%A7%D9%86+%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7." alt="Animated multilingual greeting" />
 </p>
-
 
 
 ---
