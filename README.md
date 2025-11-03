@@ -11,6 +11,7 @@
     alt="Animated Multilingual Typing Text"
     style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; width: 90%;"
   />
+  <img src="https://github.com/sayanpatra/sayanpatra/raw/main/typing.gif"/>
 </div>
 
 
