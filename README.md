@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- Squeezed Background Image -->
+  <!-- Stretched Background Image -->
   <img 
     src="https://images.unsplash.com/photo-1673886138232-e792a8839827?ixlib=rb-4.1.0&auto=format&fit=crop&q=80&w=3270" 
     alt="Golden Gate Bridge at Night" 
-    width="450px"
+    width="100%"
   />
 
   <br><br>
@@ -16,6 +16,8 @@
   />
 
 </div>
+
+
 
 ###  MS in Data Science | George Washington University  
 **Research Interests:** Predictive Modeling • Natural Language Processing • Theoretical Deep Learning • Deep Learning Applications • Topological Data Analysis • Convolutional Neural Networks • Graph Neural Networks • Time Series Analysis
