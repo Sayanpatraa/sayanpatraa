@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2500&pause=1000&color=000000&center=false&vCenter=false&repeat=true&width=800&lines=Hello+world!+I'm+Sayan+Patra.;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81%E6%88%91%E6%98%AF%E8%B5%9B%E6%89%AC%C2%B7%E5%B8%95%E7%89%B9%E6%8B%89%E3%80%82;%C2%A1Hola%2C+mundo!+Soy+Sayan+Patra.;Bonjour%2C+le+monde!+Je+suis+Sayan+Patra.;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B+%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85!+%D8%A3%D9%86%D8%A7+%D8%B3%D8%A7%D9%8A%D8%A7%D9%86+%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7." alt="Animated multilingual heading" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2500&pause=1000&color=000000&center=false&vCenter=false&repeat=true&width=850&lines=Hello+world!+I'm+Sayan+Patra!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%EF%BC%81%E6%88%91%E6%98%AF%E8%B5%9B%E6%89%AC%C2%B7%E5%B8%95%E7%89%B9%E6%8B%89%E3%80%82;%C2%A1Hola+mundo!+Soy+Sayan+Patra!;Bonjour+le+monde!+Je+suis+Sayan+Patra!;%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B+%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC!+%E0%A6%86%E0%A6%AE%E0%A6%BF+%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8+%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85!+%D8%A3%D9%86%D8%A7+%D8%B3%D8%A7%D9%8A%D8%A7%D9%86+%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7!" alt="Animated multilingual heading" />
+</p>
 
 
 ---
