@@ -1,6 +1,7 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=000000&center=false&vCenter=false&repeat=true&width=700&lines=Hello,+world!+I'm+Sayan+Patra.;你好，世界！我是赛扬·帕特拉。;¡Hola,+mundo!+Soy+Sayan+Patra.;Bonjour,+le+monde!+Je+suis+Sayan+Patra.;Hallo,+Welt!+Ich+bin+Sayan+Patra." alt="Animated multilingual heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Aptos&weight=700&size=26&duration=2500&pause=1000&color=000000&center=false&vCenter=false&repeat=true&width=700&lines=Hello,+world!+I'm+Sayan+Patra.;你好，世界！我是赛扬·帕特拉。;¡Hola,+mundo!+Soy+Sayan+Patra.;Bonjour,+le+monde!+Je+suis+Sayan+Patra.;Hallo,+Welt!+Ich+bin+Sayan+Patra." alt="Animated multilingual greeting" />
 </p>
+
 
 
 
