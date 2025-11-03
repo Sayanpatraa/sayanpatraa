@@ -1,13 +1,14 @@
-
+<!--  Elegant Style Banner -->
 <p align="center">
   <!-- background banner (dark gradient) -->
-  <img src="https://i.imgur.com/rG7s1Kz.jpeg" width="100%" alt="Apple style dark gradient background"/>
+  <img src="https://i.ibb.co/ZVh01dm/apple-dark-gradient.jpg" width="100%" alt="Apple style dark gradient background"/>
 </p>
 
-
+<!--  White typing animation overlay -->
 <p align="center" style="margin-top: -120px;">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=4500&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=850&lines=Hello+world!+I'm+Sayan+Patra!" alt="Animated multilingual heading" />
 </p>
+
 
 
 ###  MS in Data Science | George Washington University  
