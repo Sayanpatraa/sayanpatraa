@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=1500&color=FFFFFF&background=00000000&center=false&vCenter=false&repeat=true&width=950&lines=Data+Science+professional+with+a+strong+academic+background+in+mathematics+and+hands-on+experience+in+machine+learning,+data+analysis,+financial+modelling,+business+strategy,+and+data+visualization.;你好，世界！我是赛扬·帕特拉。;¡Hola,+mundo!+Soy+Sayan+Patra.;Bonjour,+le+monde!+Je+suis+Sayan+Patra.;Hallo,+Welt!+Ich+bin+Sayan+Patra.;مرحباً+بالعالم!+أنا+سايان+باترا." alt="Glassy multilingual professional summary" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=1500&color=B0C4DE,FFFFFF,E0E0E0&center=false&vCenter=false&repeat=true&width=950&lines=Data+Science+professional+with+a+strong+academic+background+in+mathematics+and+hands-on+experience+in+machine+learning,+data+analysis,+financial+modelling,+business+strategy,+and+data+visualization.;你好，世界！我是赛扬·帕特拉。;¡Hola,+mundo!+Soy+Sayan+Patra.;Bonjour,+le+monde!+Je+suis+Sayan+Patra.;Hallo,+Welt!+Ich+bin+Sayan+Patra.;مرحباً+بالعالم!+أنا+سايان+باترا." alt="Glassy multilingual summary" />
 </p>
 
 
