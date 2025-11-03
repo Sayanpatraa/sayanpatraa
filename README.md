@@ -1,13 +1,17 @@
-<div style="position: relative; display: inline-block; width: 900px;">
+<div style="position: relative; width: 900px; max-width: 100%; margin: auto; border-radius: 15px; overflow: hidden;">
   <!-- Background image -->
-  <img src="https://images.unsplash.com/photo-1673886138232-e792a8839827?ixlib=rb-4.1.0&auto=format&fit=crop&q=80&w=900" style="width: 100%; display: block; border-radius: 15px;"/>
-  <!-- Animated wording overlay -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=4500&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&lines=Hello+world!+I'm+Sayan+Patra!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C!+%E6%88%91%E6%98%AF%E8%B5%9B%E6%89%AC%C2%B7%E5%B8%95%E7%89%B9%E6%8B%89!;%C2%A1Hola+mundo!+Soy+Sayan+Patra!;Bonjour+le+monde!+Je+suis+Sayan+Patra!;Hallo+Welt!+Ich+bin+Sayan+Patra!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85!+%D8%A3%D9%86%D8%A7+%D8%B3%D8%A7%D9%8A%D8%A7%D9%86+%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7!&v=2"
-    style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); pointer-events: none;"/>
+  <img 
+    src="https://images.unsplash.com/photo-1673886138232-e792a8839827?ixlib=rb-4.1.0&auto=format&fit=crop&q=80&w=900" 
+    alt="Golden Gate Bridge at Night" 
+    style="width: 100%; display: block;"
+  />
+  <!-- Animated typing text overlay -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=4500&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&lines=Hello+world!+I'm+Sayan+Patra!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C!+%E6%88%91%E6%98%AF%E8%B5%9B%E6%89%AC%C2%B7%E5%B8%95%E7%89%B9%E6%8B%89!;%C2%A1Hola+mundo!+Soy+Sayan+Patra!;Bonjour+le+monde!+Je+suis+Sayan+Patra!;Hallo+Welt!+Ich+bin+Sayan+Patra!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85!+%D8%A3%D9%86%D8%A7+%D8%B3%D8%A7%D9%8A%D8%A7%D9%86+%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7!&v=2" 
+    alt="Animated Multilingual Typing Text"
+    style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; width: 90%;"
+  />
 </div>
-
-
-
 
 
 ###  MS in Data Science | George Washington University  
