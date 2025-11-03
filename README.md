@@ -1,7 +1,7 @@
-<!--  Elegant Style Banner -->
+<!--  San Francisco Bridge Banner -->
 <p align="center">
-  <!-- background banner (dark gradient) -->
-  <img src="https://i.ibb.co/ZVh01dm/apple-dark-gradient.jpg" width="100%" alt="Apple style dark gradient background"/>
+  <!-- background banner (San Francisco bridge, dark aesthetic) -->
+  <img src="https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=2000&q=80" width="100%" alt="San Francisco Golden Gate Bridge"/>
 </p>
 
 <!--  White typing animation overlay -->
