@@ -1,7 +1,7 @@
 <img 
   src="https://images.unsplash.com/photo-1673886138232-e792a8839827?ixlib=rb-4.1.0&auto=format&fit=crop&q=80&w=3270" 
   alt="Golden Gate Bridge at Night" 
-  style="width:100%; height:450px; object-fit:cover; display:block; margin:0; padding:0;"
+  style="width:100%; height:460px; object-fit:cover; display:block; margin:0; padding:0;"
 />
 
 <img 
