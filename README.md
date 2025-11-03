@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1508612761958-e931d843bddb?auto=format&fit=crop&w=1600&q=80](https://unsplash.com/photos/shallow-focus-photo-of-golden-gate-bridge-dM0eU3bJAPI)" width="100%" alt="Golden Gate Bridge at Sunrise"/>
+  <img src="https://images.unsplash.com/photo-1508612761958-e931d843bddb?auto=format&fit=crop&w=1600&q=80" width="100%" alt="Golden Gate Bridge at Sunrise"/>
 </p>
 
 <p align="center" style="margin-top:-120px;">
