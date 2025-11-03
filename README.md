@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80" width="100%" alt="Golden Gate Bridge at Night"/>
+  <img src="https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?auto=format&fit=crop&w=1600&q=80" width="100%" alt="Golden Gate Bridge at Night"/>
 </p>
 
 <p align="center" style="margin-top:-120px;">
