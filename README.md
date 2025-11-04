@@ -146,7 +146,7 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 This portfolio highlights my technical skills, academic background, and research interests in **data science and artificial intelligence**.  
 I am passionate about building systems that merge **theoretical understanding** with **practical impact** — from interpretable AI models to real-world data-driven decision systems.
 
-#### Note: Contact me if you are currrently interested to work with G-GPAC and H-GPAC.
+#### Note: Contact me if you are currrently interested to work with G-GPAC, H-GPAC and C-NN Research.
   
 ### Portfolio Update Notice
 My GitHub portfolio is currently under construction.
