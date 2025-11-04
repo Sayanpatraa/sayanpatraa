@@ -156,8 +156,8 @@ These repositories will soon showcase work across:
 - **Machine Learning & Deep Learning**  
 - **Natural Language Processing (NLP)**  
 - **Time Series Forecasting**  
-- **AI-driven Applications and Research**
-
+- **Computer Vision Applications and Research**
+- **Audio Processing**
 Stay tuned — more projects and research updates are on the way!
 
 > _"Turning data into decisions, and decisions into meaningful change."_
