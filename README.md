@@ -125,19 +125,34 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 
 ##  Contact
 
-<p align="left">
+<div align="center">
+
+  <!-- Gmail -->
   <a href="mailto:sayan.patra@gwmail.gwu.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img 
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email Badge"
+    />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sayan-p-13a76a241/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn Badge"
+    />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub -->
   <a href="https://github.com/sayanpatraa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub Badge"
+    />
   </a>
-</p>
+</div>
 
 ---
 
