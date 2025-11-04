@@ -89,8 +89,8 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
   
 
 ### Graduate Instructional Assistant — The George Washington University  
-- Supported graduate coursework in Machine Learning.  
-- Assisted in grading, debugging student code, and developing learning materials.  
+- Supported graduate coursework in Machine Learning I course.  
+- Assisted in grading, debugging student code, developing learning materials, and helping students understand key concepts in shallow and deep learning, including neural networks and their applications. 
 
 ---
 
