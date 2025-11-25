@@ -178,22 +178,18 @@ Stay tuned — more projects and research updates are on the way!
 
 <div align="right">
 
-<div align="right">
-
 <details>
   <summary><strong>Language</strong></summary>
-  <br>
 
-  <sub>
-  <ul>
+  <ul style="margin-top: 10px;">
     <li><a href="README.md">English</a></li>
     <li><a href="README_zh.md">中文 (Chinese)</a></li>
     <li><a href="README_es.md">Español (Spanish)</a></li>
     <li><a href="README_fr.md">Français (French)</a></li>
     <li><a href="README_de.md">Deutsch (German)</a></li>
   </ul>
-  </sub>
 
 </details>
 
 </div>
+
