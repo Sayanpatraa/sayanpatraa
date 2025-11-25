@@ -180,32 +180,19 @@ Stay tuned — more projects and research updates are on the way!
 
 <details>
   <summary>
-    <img src="https://img.shields.io/badge/_Language-000000?style=flat&labelColor=ffffff&color=000000">
+    <img src="https://img.shields.io/badge/-000000?style=flat&labelColor=ffffff&color=000000">
   </summary>
 
   <br>
 
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/English-000000?style=flat&labelColor=ffffff&color=000000">
-  </a><br>
-
-  <a href="README_zh.md">
-    <img src="https://img.shields.io/badge/中文-000000?style=flat&labelColor=ffffff&color=000000">
-  </a><br>
-
-  <a href="README_es.md">
-    <img src="https://img.shields.io/badge/Español-000000?style=flat&labelColor=ffffff&color=000000">
-  </a><br>
-
-  <a href="README_fr.md">
-    <img src="https://img.shields.io/badge/Français-000000?style=flat&labelColor=ffffff&color=000000">
-  </a><br>
-
-  <a href="README_de.md">
-    <img src="https://img.shields.io/badge/Deutsch-000000?style=flat&labelColor=ffffff&color=000000">
-  </a>
+  <a href="README.md">English</a><br>
+  <a href="README_zh.md">中文</a><br>
+  <a href="README_es.md">Español</a><br>
+  <a href="README_fr.md">Français</a><br>
+  <a href="README_de.md">Deutsch</a>
 
 </details>
 
 </div>
+
 
