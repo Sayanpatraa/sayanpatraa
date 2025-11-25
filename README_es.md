@@ -158,12 +158,15 @@ Estos repositorios incluirán trabajos de:
 Mantente atento — se publicarán más proyectos y actualizaciones de investigación.
 
 > _"Transformando datos en decisiones, y decisiones en cambios significativos."_
+
+
 <div align="right">
 
-**EN** | 
+[EN](README.md) |
 [中文](README_zh.md) |
 [ES](README_es.md) |
 [FR](README_fr.md) |
 [DE](README_de.md)
 
+</div>
 </div>
