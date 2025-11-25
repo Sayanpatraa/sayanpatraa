@@ -179,10 +179,11 @@ Stay tuned — more projects and research updates are on the way!
 <div align="right">
 
 [EN](README.md) |
-[中文](README_zh.md) |
-[ES](README_es.md) |
-[FR](README_fr.md) |
-[DE](README_de.md)
+[中文](lang/README_zh.md) |
+[ES](lang/README_es.md) |
+[FR](lang/README_fr.md) |
+[DE](lang/README_de.md)
+
 
 </div>
 
