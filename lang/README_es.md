@@ -163,7 +163,7 @@ Mantente atento — se publicarán más proyectos y actualizaciones de investiga
 
 <div align="right">
 
-[EN](sayanpatraa/README.md) |
+[EN](../README.md) |
 [中文](README_zh.md) |
 [ES](README_es.md) |
 [FR](README_fr.md) |
