@@ -124,4 +124,37 @@ Compétent dans plusieurs langages de programmation et frameworks, capable de fo
 
 <div align="left">
 
-  <a href="mailto:sayan.patra@g
+  <a href="mailto:sayan.patra@gwmail.gwu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sayan-p-13a76a241/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/sayanpatraa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</div>
+
+---
+
+## À Propos de Ce Portfolio  
+Ce portfolio met en valeur mes compétences techniques, ma formation académique et mes intérêts de recherche en **science des données et intelligence artificielle**.  
+Je m’efforce de développer des systèmes alliant **compréhension théorique** et **impact pratique**, qu’il s’agisse de modèles interprétables ou de systèmes décisionnels guidés par les données.
+
+### Note de Mise à Jour  
+Mon portfolio GitHub est actuellement en cours de mise à jour.  
+J’organise et téléverse progressivement les projets réalisés dans le cadre de mon **Master en Science des Données** à la **George Washington University**.
+
+Les dépôts porteront sur :
+- **Machine Learning & Deep Learning**  
+- **NLP**  
+- **Séries Temporelles**  
+- **Vision par Ordinateur**  
+- **Traitement Audio**
+
+Restez à l’écoute — davantage de projets et mises à jour de recherche sont à venir.
+
+> _"Transformer les données en décisions, et les décisions en changements significatifs."_  
