@@ -160,7 +160,7 @@ GitHub 作品集正在建设中。
 > _“将数据转化为决策，让决策带来真正改变。”_
 <div align="right">
 
-[EN](sayanpatraa/README.md) |
+[EN](../README.md) |
 [中文](README_zh.md) |
 [ES](README_es.md) |
 [FR](README_fr.md) |
