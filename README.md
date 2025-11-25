@@ -176,7 +176,7 @@ These repositories will soon showcase work across:
 Stay tuned — more projects and research updates are on the way!
 > _"Turning data into decisions, and decisions into meaningful change."_
 
-<div align="centre">
+<div align="right">
 
 [EN](README.md) |
 [中文](README_zh.md) |
