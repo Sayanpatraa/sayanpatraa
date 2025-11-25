@@ -181,8 +181,8 @@ Stay tuned — more projects and research updates are on the way!
 <details>
   <summary>
     <img 
-      src="https://img.shields.io/badge/🌐_Languages-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb&color=1f6feb" 
-      alt="Language Button" 
+      src="https://img.shields.io/badge/Languages-1f6feb?style=for-the-badge&labelColor=1f6feb&color=1f6feb&logoColor=white"
+      alt="Language Button"
     />
   </summary>
 
