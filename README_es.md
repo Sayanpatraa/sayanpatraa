@@ -160,34 +160,10 @@ Mantente atento — se publicarán más proyectos y actualizaciones de investiga
 > _"Transformando datos en decisiones, y decisiones en cambios significativos."_
 <div align="right">
 
-
-<a href="#language-menu">
-  <img 
-    src="https://img.shields.io/badge/EN%20%2F%20中文-1f6feb?style=for-the-badge&labelColor=1f6feb&color=1f6feb"
-    alt="Language Selector"
-  />
-</a>
-
-
-<div id="language-menu"></div>
-
-
-<div style="
-  border:1px solid #e5e7eb;
-  display:inline-block;
-  padding:12px 16px;
-  margin-top:10px;
-  border-radius:12px;
-  background:white;
-  text-align:right;
-  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell;
-  box-shadow:0 4px 16px rgba(0,0,0,0.08);
-">
-  <a href="README.md" style="text-decoration:none; color:#0a0a0a;">English</a><br>
-  <a href="README_zh.md" style="text-decoration:none; color:#0a0a0a;">中文</a><br>
-  <a href="README_es.md" style="text-decoration:none; color:#0a0a0a;">Español</a><br>
-  <a href="README_fr.md" style="text-decoration:none; color:#0a0a0a;">Français</a><br>
-  <a href="README_de.md" style="text-decoration:none; color:#0a0a0a;">Deutsch</a>
-</div>
+**EN** | 
+[中文](README_zh.md) |
+[ES](README_es.md) |
+[FR](README_fr.md) |
+[DE](README_de.md)
 
 </div>
