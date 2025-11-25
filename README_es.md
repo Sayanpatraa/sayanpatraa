@@ -1,12 +1,13 @@
 <img 
   src="https://images.unsplash.com/photo-1673886138232-e792a8839827?ixlib=rb-4.1.0&auto=format&fit=crop&q=80&w=3270" 
+  alt="Golden Gate Bridge at Night" 
   style="width:100%; height:auto; object-fit:cover; display:block; margin:0; padding:0;"
 />
-
 <h1 align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=4500&pause=1200&color=000000&center=false&vCenter=true&repeat=true&width=900&lines=%C2%A1Hola+mundo!+Soy+Sayan+Patra!;Hello+world!+I'm+Sayan+Patra!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C!;%E6%88%91%E6%98%AF%E8%B5%9B%E6%89%AC%C2%B7%E5%B8%95%E7%89%B9%E6%8B%89!;Bonjour+le+monde!;Hallo+Welt!"
-    style="max-width:100%; height:auto;"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=4500&pause=1200&color=000000&center=false&vCenter=true&repeat=true&width=900&lines=Hello+world!+I'm+Sayan+Patra!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C!+%E6%88%91%E6%98%AF%E8%B5%9B%E6%89%AC%C2%B7%E5%B8%95%E7%89%B9%E6%8B%89!;%C2%A1Hola+mundo!+Soy+Sayan+Patra!;Bonjour+le+monde!+Je+suis+Sayan+Patra!;Hallo+Welt!+Ich+bin+Sayan+Patra!&v=6&cacheBust=1" 
+    alt="Animated multilingual typing text"
+    style="max-width:100%; height:auto; display:block; margin:auto;"
   />
 </h1>
 
