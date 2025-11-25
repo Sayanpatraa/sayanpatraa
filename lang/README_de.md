@@ -169,7 +169,7 @@ Bleiben Sie dran — weitere Projekte und Forschungsupdates folgen.
 > _"Daten in Entscheidungen verwandeln — und Entscheidungen in bedeutungsvolle Veränderungen."_
 <div align="right">
 
-[EN](README.md) |
+[EN](sayanpatraa/README.md) |
 [中文](README_zh.md) |
 [ES](README_es.md) |
 [FR](README_fr.md) |
