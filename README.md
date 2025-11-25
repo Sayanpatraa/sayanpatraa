@@ -178,19 +178,22 @@ Stay tuned — more projects and research updates are on the way!
 
 <div align="right">
 
-## Language
+<div align="right">
 
 <details>
-  <summary><strong>Select Language ▼</strong></summary>
+  <summary><strong>Language</strong></summary>
   <br>
 
-    **English** → [README.md](README.md)  
-    **中文 (Chinese)** → [README_zh.md](README_zh.md)  
-    **Español (Spanish)** → [README_es.md](README_es.md)  
-    **Français (French)** → [README_fr.md](README_fr.md)  
-    **Deutsch (German)** → [README_de.md](README_de.md)  
+  <sub>
+  <ul>
+    <li><a href="README.md">English</a></li>
+    <li><a href="README_zh.md">中文 (Chinese)</a></li>
+    <li><a href="README_es.md">Español (Spanish)</a></li>
+    <li><a href="README_fr.md">Français (French)</a></li>
+    <li><a href="README_de.md">Deutsch (German)</a></li>
+  </ul>
+  </sub>
 
 </details>
 
 </div>
-
