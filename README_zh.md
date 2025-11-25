@@ -157,3 +157,24 @@ GitHub 作品集正在建设中。
 请持续关注，更多项目与研究将陆续发布。
 
 > _“将数据转化为决策，让决策带来真正改变。”_
+<div align="right">
+
+<details>
+  <summary>
+    <img 
+      src="https://img.shields.io/badge/Languages-1f6feb?style=for-the-badge&labelColor=1f6feb&color=1f6feb&logoColor=white"
+      alt="Language Button"
+    />
+  </summary>
+
+  <br>
+
+  <a href="README.md">English</a><br>
+  <a href="README_zh.md">中文</a><br>
+  <a href="README_es.md">Español</a><br>
+  <a href="README_fr.md">Français</a><br>
+  <a href="README_de.md">Deutsch</a>
+
+</details>
+
+</div>
