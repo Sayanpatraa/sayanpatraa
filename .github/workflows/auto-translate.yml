@@ -1,0 +1,42 @@
+name: Auto Translate README
+
+on:
+  push:
+    paths: ["README.md"]
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Translate to Hindi
+        uses: xhayper/translate-action@v1
+        with:
+          input-file: README.md
+          output-file: README_hi.md
+          target-lang: hi
+
+      - name: Translate to Spanish
+        uses: xhayper/translate-action@v1
+        with:
+          input-file: README.md
+          output-file: README_es.md
+          target-lang: es
+
+      - name: Translate to Chinese
+        uses: xhayper/translate-action@v1
+        with:
+          input-file: README.md
+          output-file: README_zh.md
+          target-lang: zh
+
+      - name: Commit Translated Files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README_hi.md README_es.md README_zh.md
+          git commit -m "Auto-translate README to Hindi, Spanish, and Chinese" || echo "No changes to commit"
+          git push
