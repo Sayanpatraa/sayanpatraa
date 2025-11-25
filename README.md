@@ -180,7 +180,10 @@ Stay tuned — more projects and research updates are on the way!
 
 <details>
   <summary>
-    <img src="https://img.shields.io/badge/-000000?style=flat&labelColor=ffffff&color=000000">
+    <img 
+      src="https://img.shields.io/badge/🌐_Languages-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb&color=1f6feb" 
+      alt="Language Button" 
+    />
   </summary>
 
   <br>
@@ -194,5 +197,4 @@ Stay tuned — more projects and research updates are on the way!
 </details>
 
 </div>
-
 
