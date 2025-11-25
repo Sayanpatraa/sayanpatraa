@@ -169,7 +169,7 @@ Restez connectés — davantage de projets et travaux de recherche arrivent bien
 > _"Transformer les données en décisions, et les décisions en changements significatifs."_
 <div align="right">
 
-[EN](sayanpatraa/README.md) |
+[EN](../README.md) |
 [中文](README_zh.md) |
 [ES](README_es.md) |
 [FR](README_fr.md) |
