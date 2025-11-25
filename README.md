@@ -178,17 +178,17 @@ Stay tuned — more projects and research updates are on the way!
 
 <div align="right">
 
-## 🌍 Language
+## Language
 
 <details>
   <summary><strong>Select Language ▼</strong></summary>
   <br>
 
-  - 🇺🇸 **English** → [README.md](README.md)  
-  - 🇨🇳 **中文 (Chinese)** → [README_zh.md](README_zh.md)  
-  - 🇪🇸 **Español (Spanish)** → [README_es.md](README_es.md)  
-  - 🇫🇷 **Français (French)** → [README_fr.md](README_fr.md)  
-  - 🇩🇪 **Deutsch (German)** → [README_de.md](README_de.md)  
+    **English** → [README.md](README.md)  
+    **中文 (Chinese)** → [README_zh.md](README_zh.md)  
+    **Español (Spanish)** → [README_es.md](README_es.md)  
+    **Français (French)** → [README_fr.md](README_fr.md)  
+    **Deutsch (German)** → [README_de.md](README_de.md)  
 
 </details>
 
