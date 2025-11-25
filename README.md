@@ -176,12 +176,14 @@ These repositories will soon showcase work across:
 Stay tuned — more projects and research updates are on the way!
 > _"Turning data into decisions, and decisions into meaningful change."_
 
-<div align="right">
+<div align="centre">
 
-**EN** | 
+[EN](README.md) |
 [中文](README_zh.md) |
 [ES](README_es.md) |
 [FR](README_fr.md) |
 [DE](README_de.md)
+
+</div>
 
 </div>
