@@ -96,7 +96,7 @@ Proficient in multiple programming languages and frameworks, with a proven abili
 
 ### Associate — Amazon  
 - Analyzed eCommerce transaction patterns to improve business strategy and concessions.
-- Client Relations in EMEA market.
+- Business Strategy & Client Relations - EMEA market.
 
 ---
 
