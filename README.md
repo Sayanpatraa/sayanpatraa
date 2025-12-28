@@ -90,18 +90,20 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 
 ### Graduate Instructional Assistant — The George Washington University  
 - Supported graduate coursework in Machine Learning I.  
-- Assisted in grading, debugging student code, developing learning materials, and helping students understand key concepts in shallow and deep learning, including neural networks and their applications. 
+- Assisted in grading, developing learning materials, and helping students understand key concepts in shallow and deep learning and their applications. 
 
 ---
 
 ### Associate — Amazon  
-- Analyzed eCommerce transaction patterns to improve business strategy and concessions.  
+- Analyzed eCommerce transaction patterns to improve business strategy and concessions.
+- Client Relations in EMEA market.
 
 ---
 
 ### Authorized Person — ICICI Securities Private Limited  
-- Managed client portfolios and performed technical analysis on derivatives.  
-- Provided advisory support for retail investment strategies.  
+- Managed equity portfolios worth Millions . 
+- Provided advisory support for retail investment strategies.
+- Experienced Junior Equity & Option Trader.
 ---
 
 ## Education  
@@ -160,14 +162,14 @@ Seeking opportunities that leverage my technical and analytical expertise to dri
 This portfolio highlights my technical skills, academic background, and research interests in **data science and artificial intelligence**.  
 I am passionate about building systems that merge **theoretical understanding** with **practical impact** — from interpretable AI models to real-world data-driven decision systems.
 
-#### Note:   Contact me if you are currently interested to work with   G-GPAC,   H-GPAC   and   C-NN Research
+#### Note:   Contact me if you are currently interested to work with Diffusion Model Enhancements , MDE .
   
 ### Portfolio Update Notice
 My GitHub portfolio is currently under construction.
 I’m in the process of organizing and uploading the projects completed during my **Master’s in Data Science** at **George Washington University**.  
 
 These repositories will soon showcase work across:  
-- **Machine Learning & Deep Learning**  
+- **Shallow & Deep Learning**  
 - **Natural Language Processing (NLP)**  
 - **Time Series Forecasting**  
 - **Computer Vision Applications and Research**
