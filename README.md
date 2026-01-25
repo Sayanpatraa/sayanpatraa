@@ -166,7 +166,7 @@ I am passionate about building systems that merge **theoretical understanding** 
   
 ### Portfolio Update Notice
 My GitHub portfolio is currently under construction.
-I’m in the process of organizing and uploading the projects completed during my **Master’s in Data Science** at **George Washington University**.  
+I’m in the process of organizing and uploading the projects completed during my **MS in Data Science** at **The George Washington University**.  
 
 These repositories will soon showcase work across:  
 - **Shallow & Deep Learning**  
