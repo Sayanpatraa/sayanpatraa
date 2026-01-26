@@ -114,14 +114,12 @@ Proficient in multiple programming languages and frameworks, with a proven abili
 ---
 
 ##  Certifications  
-- AWS Cloud Practitioner *(in progress)*  
-- Six Sigma Black Belt *(planned)*
-- CAPM *(planned)*
+- TBA
 
 ---
 
 ##  Publications  
-- In Progress
+- TBA
 
 ---
 
