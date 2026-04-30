@@ -164,7 +164,7 @@ Proficient in multiple programming languages and frameworks, with a proven abili
 This portfolio highlights my technical skills, academic background, and research interests in **data science and artificial intelligence**.  
 I am passionate about building systems that merge **theoretical understanding** with **practical impact** — from interpretable AI models to real-world data-driven decision systems.
 
-#### Note:   Contact me if you are currently interested to work with Diffusion Model Enhancements , MDE .
+#### Note:   Contact me if you are currently interested to work with Diffusion Model Enhancements , MDE, Sensorimotor Receptors .
   
 ### Portfolio Update Notice
 My GitHub portfolio is currently under construction.
