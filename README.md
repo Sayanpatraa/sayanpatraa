@@ -12,7 +12,7 @@
 </h1>
 
 ###  MS in Data Science | George Washington University  
-**Research Interests:** Predictive Modeling • Natural Language Processing • Theoretical Deep Learning • Deep Learning Applications • Topological Data Analysis • Computer Vision • Graph Neural Networks • Time Series Analysis
+**Research Interests:** Predictive Modeling • Strategic Learning (policy shifts under aleatory uncertainity) • Natural Language Processing • Theoretical Deep Learning • Deep Learning Applications • Topological Data Analysis • Computer Vision • Graph Neural Networks • Time Series Analysis
 
 ---
 ##  Summary  
