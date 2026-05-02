@@ -107,7 +107,7 @@ Proficient in multiple programming languages and frameworks, with a proven abili
 ### Authorized Person — ICICI Securities Private Limited  
 - Managed equity portfolios worth Millions . 
 - Provided advisory support for retail investment strategies.
-- Experienced Junior Equity & Option Trader.
+- Experienced Equity & Option Trader.
 ---
 
 ## Education  
