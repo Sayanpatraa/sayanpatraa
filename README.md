@@ -90,7 +90,7 @@ Proficient in multiple programming languages and frameworks, with a proven abili
 ---
 
 ##  Professional Experience   
----  
+
 
 ### Graduate Instructional Assistant — The George Washington University  
 - Supported graduate coursework in Machine Learning I.  
