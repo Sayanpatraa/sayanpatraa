@@ -90,19 +90,19 @@ Proficient in multiple programming languages and frameworks, with a proven abili
 ---
 
 ##  Professional Experience   
-  
+---  
 
 ### Graduate Instructional Assistant — The George Washington University  
 - Supported graduate coursework in Machine Learning I.  
 - Assisted in grading, developing learning materials, and helping students understand key concepts in shallow and deep learning and their applications. 
 
----
+
 
 ### Associate — Amazon  
 - Analyzed eCommerce transaction patterns to improve business strategy and concessions.
 - Business Strategy & Client Relations - EMEA market.
 
----
+
 
 ### Authorized Person — ICICI Securities Private Limited  
 - Managed equity portfolios worth Millions . 
