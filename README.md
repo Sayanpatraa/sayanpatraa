@@ -118,8 +118,10 @@ Proficient in multiple programming languages and frameworks, with a proven abili
 ---
 
 ##  Certifications  
-- TBA
-
+- **CITI Program — Social & Behavioral Responsible Conduct of Research (RCR)**
+- **CITI Program — Human Subjects Protection (SBE Comprehensive)**
+- **CITI Program — Conflict of Interest (Research Ethics)**
+- **DataCamp — Introduction to Programming Using R**
 ---
 
 ##  Publications  
