@@ -16,7 +16,7 @@
 
 ---
 ##  Summary  
-"I am trying to explore why I was born and what is the reason for me to stay alive and be on earth!"
+"I am trying to explore why I was born and what is the reason for me to stay alive, be on earth and how can I contribute!"
 
 A Human with a strong academic background in **mathematics** and hands-on experience in **machine learning**, **data analysis**, **financial modelling** , **business strategy** and **data visualization**.  
 Proficient in multiple programming languages and frameworks, with a proven ability to deliver insights and results in fast-paced, data-driven environments.  
