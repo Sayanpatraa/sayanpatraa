@@ -16,7 +16,7 @@
 
 ---
 ##  Summary  
-"Why do we exist? We don't know what the universe is yet we tend to assume a small space and try to estimate the functiona nd say we understand it then just tell me one thing is time a index or a one directional dimension?"
+"Why do we exist? We don't know what the universe is! yet, we tend to assume a small space and try to estimate the function over time (t) and say we understand it then just tell me one thing can we accurately forecast the weather?"
 
 A Human with a strong academic background in **mathematics** and hands-on experience in **machine learning**, **data analysis**, **financial modelling** , **business strategy** and **data visualization**.  
 Proficient in multiple programming languages and frameworks, with a proven ability to deliver insights and results in fast-paced, data-driven environments.  
