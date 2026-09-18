@@ -16,7 +16,7 @@
 
 ---
 ##  Summary  
-\[\boxed{a_t \sim \pi(\cdot \mid s_t)}\]
+I still trying to figure out why I exist!
 
 A Human with a strong academic background in **mathematics** and hands-on experience in **machine learning**, **data analysis**, **financial modelling** , **business strategy** and **data visualization**.  
 Proficient in multiple programming languages and frameworks, with a proven ability to deliver insights and results in fast-paced, data-driven environments.  
