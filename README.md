@@ -16,7 +16,7 @@
 
 ---
 ##  Summary  
-I still trying to figure out why I exist!
+I still trying to figure out why I exist and living like it is the day of my death !
 
 A Human with an academic background in **mathematics** and hands-on experience in **machine learning**, **data analysis**, **financial modelling** , **business strategy** and **data visualization**.  
 Proficient in multiple programming languages and frameworks, with a proven ability to deliver insights and results in fast-paced, data-driven environments.  
