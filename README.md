@@ -18,8 +18,10 @@
 ##  Summary  
 I still trying to figure out why I exist !
 
-An individual with training in **mathematics** ,theoritical & applied experience in **Advanced Computer Vision** , **NLP** , **Time Series** and **SNN**.
-I generally code in Python and rarely in R . Although I have worked with C and Julia but my current work does not require a use of this languages.I have had a opportunity to keep working on EC2 , venc and on HPCs both multi and single node. I like to work on optimisation problems , signal processing and non differential games. In my free time, I like to discuss business related case studies, read research papers related to current theoritical works(I am reading Ewin Tang's quantum algorithm paper now). It is fascinating to me that how we humans can reason and work in a Space. I also like to view muduli spaces lecture by genius Maryam Mirzakhani.
+An individual with training in **Mathematics** ,theoritical & applied experience in **Advanced Computer Vision** , **NLP** , **Time Series** and **SNN**.
+I generally code in Python and rarely in R . Although I have worked with C and Julia but my current work does not require a use of this languages.I have had a opportunity to keep working on EC2 , venc and on HPCs. I like to work on optimisation problems , signal processing and non differential games. In my free time, I like to discuss business related case studies, read research papers related to current theoritical works(I am reading Ewin Tang's quantum algorithm paper now). It is fascinating to me that how we humans can reason and work in a Space. I also like to study moduli spaces lecture by genius Maryam Mirzakhani.
+
+Interesting fact about me : I can play 3 different instruments and I enjoy being in a space where I can grow and work with my own interests. I like to hike, go on walks along the river and gaze at the stars trying to figure out what are we ?
 
 Below are the listed workframes that I have worked with(might not be updated for long so pardon me)
 ---
