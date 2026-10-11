@@ -172,13 +172,11 @@ Below are the listed workframes that I have worked with (might not be updated fo
 ---
 
 ##  About This Portfolio  
-This portfolio highlights my technical skills, academic background, and research interests in **data science and artificial intelligence**.  
-I am passionate about building systems that merge **theoretical understanding** with **practical impact** — from interpretable AI models to real-world data-driven decision systems.
-
+This portfolio highlights my technical skills, academic background, and research interest. 
 #### Note:   Contact me if you are currently interested to work with Diffusion Model Enhancements , MDE, Sensorimotor Receptors .
   
 ### Portfolio Update Notice
-My GitHub portfolio is currently under construction.
+My GitHub portfolio is currently under development.
 I’m in the process of organizing and uploading the projects completed during my **MS in Data Science** at **The George Washington University**.  
 
 These repositories will soon showcase work across:  
