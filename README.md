@@ -187,7 +187,7 @@ These repositories will soon showcase work across:
 - **Audio Processing**
   
 Stay tuned — more projects and research updates are on the way!
-> _"Turning data into decisions, and decisions into meaningful change."_
+> _"Lets Work Together!"_
 
 <div align="right">
 
