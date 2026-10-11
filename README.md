@@ -19,7 +19,7 @@
 I still trying to figure out why I exist !
 
 An individual with training in **mathematics** ,theoritical & applied experience in **Advanced Computer Vision** , **NLP** , **Time Series** and **SNN**.
-I generally code in Python and rarely in R . Although I have worked with C and Julia but my current work does not require a use of this languages.I have had a opportunity to keep working on EC2 , venc and on HPCs both multi and single node. I like to work on optimisation problems and non differential games. In my free time, I like to discuss business related case studies, read research papers related to current theoritical works( I am reading Ewin Tang's quantum algorithm paper now. It is fascinating to me that how we humans can reason a work in a Space. I also like to view muduli spaces lecture by genius Maryam Mirzakhani.
+I generally code in Python and rarely in R . Although I have worked with C and Julia but my current work does not require a use of this languages.I have had a opportunity to keep working on EC2 , venc and on HPCs both multi and single node. I like to work on optimisation problems , signal processing and non differential games. In my free time, I like to discuss business related case studies, read research papers related to current theoritical works(I am reading Ewin Tang's quantum algorithm paper now). It is fascinating to me that how we humans can reason and work in a Space. I also like to view muduli spaces lecture by genius Maryam Mirzakhani.
 
 Below are the listed workframes that I have worked with(might not be updated for long so pardon me)
 ---
