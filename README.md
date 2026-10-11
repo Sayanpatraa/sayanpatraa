@@ -180,14 +180,13 @@ My GitHub portfolio is currently under development.
 I’m in the process of organizing and uploading the projects completed during my **MS in Data Science** at **The George Washington University**.  
 
 These repositories will soon showcase work across:  
-- **Shallow & Deep Learning**  
 - **Natural Language Processing (NLP)**  
 - **Time Series Forecasting**  
 - **Computer Vision Applications and Research**
 - **Audio Processing**
   
 Stay tuned — more projects and research updates are on the way!
-> _"Lets Work Together!"_
+> _"Lets question traditional ways together!"_
 
 <div align="right">
 
