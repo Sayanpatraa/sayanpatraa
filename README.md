@@ -21,9 +21,14 @@ I still trying to figure out why I exist !
 An individual with training in **Mathematics** ,theoritical & applied experience in **Advanced Computer Vision** , **NLP** , **Time Series** and **SNN**.
 I generally code in Python and rarely in R . Although I have worked with C and Julia but my current work does not require a use of these languages.I have had a opportunity to wor on AWS EC2  and HPCs. I like to work on optimisation problems , signal processing and non differential games. In my free time, I like to discuss business related case studies, listen to violin, sitar, sarod compositions and read research papers related to current theoritical works(I am reading Ewin Tang's quantum algorithm paper now). It is fascinating to me that how we humans are trying to figure things out everyday. I also like to study moduli spaces lecture by genius Maryam Mirzakhani.
 
-Interesting fact about me : I can play 3 different instruments and I enjoy being in a space where I can grow and work with my own interests. I like to hike, go on walks along the river and gaze at the stars trying to figure out what are we ?
+Interesting fact about me : I can play 3 different instruments and I enjoy being in a space where I can grow and work with my own interests. I like to hike, go on walks along the river and gaze at the stars trying to figure out what are we ? 
 
-Below are the listed workframes that I have worked with(might not be updated for long so pardon me)
+Fun fact I learned when I was first getting started with confusion matrices: Python's `scikit-learn` and R's `caret` can give you different-looking confusion matrices and different class-specific metrics because they use different conventions.In `scikit-learn`, the confusion matrix has actual labels as rows and predicted labels as columns. In `caret`, the table uses predicted labels as rows and actual labels as columns. Additionally, `caret` defaults to treating the first factor level as the positive class, whereas you can explicitly choose the positive class in both workflows.
+I actually discovered this after going through the documentation when I was learning these concepts. We even had a debate because we were getting different scores!
+**The takeaway:** Don't blindly switch the `[0, 1]` labels. Make sure both libraries use the same positive class, align the actual vs pred  axes, and compare the same metrics.
+
+Below are the listed workframes that I have worked with (might not be updated for long, so pardon me)
+
 ---
 
 ##  Technical Skills  
