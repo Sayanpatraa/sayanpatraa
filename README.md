@@ -18,10 +18,10 @@
 ##  Summary  
 I still trying to figure out why I exist !
 
-A Human with an academic background in **mathematics** and hands-on experience in **machine learning**, **data analysis**, **financial modelling** , **business strategy** and **data visualization**.  
-Proficient in multiple programming languages and frameworks, with a proven ability to deliver insights and results in fast-paced, data-driven environments.  
-**Seeking opportunities that leverage my technical and analytical expertise to drive **business growth** and solve **complex real-world problems**.**
+An individual with training in **mathematics** ,theoritical & applied experience in **Advanced Computer Vision** , **NLP** , **Time Series** and **SNN**.
+I generally code in Python and rarely in R . Although I have worked with C and Julia but my current work does not require a use of this languages.I have had a opportunity to keep working on EC2 , venc and on HPCs both multi and single node. I like to work on optimisation problems and non differential games. In my free time, I like to discuss business related case studies, read research papers related to current theoritical works( I am reading Ewin Tang's quantum algorithm paper now. It is fascinating to me that how we humans can reason a work in a Space. I also like to view muduli spaces lecture by genius Maryam Mirzakhani.
 
+Below are the listed workframes that I have worked with(might not be updated for long so pardon me)
 ---
 
 ##  Technical Skills  
@@ -127,7 +127,7 @@ Proficient in multiple programming languages and frameworks, with a proven abili
 ---
 
 ##  Publications  
-- TBA
+- We are working on several publications most of them will be updated once published (for latest check: https://sayanpatraa.github.io)
 
 ---
 
