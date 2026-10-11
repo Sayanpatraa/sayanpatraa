@@ -186,7 +186,7 @@ These repositories will soon showcase work across:
 - **Audio Processing**
   
 Stay tuned — more projects and research updates are on the way!
-> _"Lets question traditional ways together!"_
+> _"Let's question traditional ways together!"_
 
 <div align="right">
 
