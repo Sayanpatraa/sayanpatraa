@@ -35,7 +35,7 @@ Below are the listed workframes that I have worked with (might not be updated fo
 - https://mwolf.pracownicy.uksw.edu.pl/MK/Dirac%20%20New%20notation%20for%20QM%201939.pdf (braket annotation and it is really interesting if you are ready to dive into quantum computing)
 - https://www.stat.uchicago.edu/~stigler/Stat244/ch3withfigs.pdf (multivariate distribution)
 - https://people.vts.su.ac.rs/~pmiki/AI/NNDesign.pdf (Book on Neural Networks which helped me while I was learning basics, great book!)
-- https://complex-analysis.com/content/table_of_contents.html (only for mathematics grad and undergrad)
+- https://complex-analysis.com/content/table_of_contents.html (Complex Analyis - only for mathematics grad and undergrad)
 
 ---
 
