@@ -21,7 +21,7 @@ I am still trying to figure out why and how we exist!
 An individual with training in **Mathematics**, theoretical and applied experience in **Advanced Computer Vision**, **NLP**, **Time Series**, and **SNN**.
 I generally write code in Python and rarely in R. Although I have worked with C and Julia in the past, my current work does not require the use of these languages now. I use MacOS and Linux for most of my work and like to work on optimization problems, signal processing, and non-differential games whenever I can sneak out some time from my traditional research. In my free time, I like to discuss business, trading related case studies, listen to violin, sitar, and sarod compositions, and read research papers related to current theoretical works (I am reading Ewin Tang's paper now). It is fascinating to me how we, humans, are trying to figure things out every day. I also like to study moduli spaces lectures by the genius Dr.Mirzakhani.
 
-**Interesting fact about me:** I can play 3 different instruments, and I enjoy being in a space where I can grow and work with my own interests. I like to hike, go on walks, and gaze at the stars, trying to figure out what we are. I am currently looking for a cat to adopt so ping me if you know about any fluffy! 
+**Interesting fact about me:** I can play 3 different instruments, and I enjoy being in a space where I can grow and work with my own interests. I like to hike, go on walks, and gaze at the stars, trying to figure out what we are. I am presently searching for a cat to adopt, so please contact me if you know of any.
 
 **Fun fact** I learned when I was first starting out with confusion matrices: Python's `scikit-learn` and R's `caret` can report different sensitivity and specificity scores even when you're using the same labels and predictions.The key difference is that `scikit-learn` arranges the confusion matrix with actual labels as rows and predicted labels as columns, while `caret` does the reverse. More importantly, `caret` treats the first factor level as the positive class by default. So, with factor levels `0, 1`, it treats `0` as positive unless you explicitly set `positive = "1"`.If you're calculating sensitivity and specificity for class `1` in Python but relying on `caret`'s default in R, the two scores can appear swapped.I learned this when I was going through the documentation while working on my assignment as a beginner. We even had a debate with my friend's because we were getting different scores!
 so, Before comparing metrics across libraries, make sure you're using the same positive class and interpreting the confusion matrix consistently.
@@ -30,16 +30,12 @@ so, Before comparing metrics across libraries, make sure you're using the same p
 Below are the listed workframes that I have worked with (might not be updated for long, so pardon me)
 
 **Things I find beautiful and might change about how you look at world :**
--  https://mathworld.wolfram.com/RiemannZetaFunction.html
--  https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf
+-  https://mathworld.wolfram.com/RiemannZetaFunction.html 
+-  https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf (This will help you to know about sillicon valley and its workings, great book!)
 -  https://mwolf.pracownicy.uksw.edu.pl/MK/Dirac%20%20New%20notation%20for%20QM%201939.pdf
--  https://www.stat.uchicago.edu/~stigler/Stat244/ch3withfigs.pdf
-
-**Donate for a Cause**
-  -https://donate.cancer.org/campaign=incentivehubdefaultmedia&_gl=1*1i25xzr*_gcl_aw*R0NMLjE3OTE4NDU2NzAuQ2p3S0NBandpckxXQmhCQkVpd0FsSXRiRWhscXh6MzdJa2RMZlRYZmZDUnd1eE9hRmRxcGtpQXZXODZCcTFnRzc3MHlTVzdFVDlUVGNCb0NOTlVRQXZEX0J3..*_gcl_dc*R0NMLjE3OTE4NDU2NzAuQ2p3S0NBandpckxXQmhCQkVpd0FsSXRiRWhscXh6MzdJa2RMZlRYZmZDUnd1eE9hRmRxcGtpQXZXODZCcTFnRzc3MHlTVzdFVDlUVGNCb0NOTlVRQXZEX0J3RQ..*_gcl_au*MTI4MTg3NTMzOC4xNzkxODQ1NjcwLi0uLS4xNzkxODQ1NjY5LjExMzMyMjINTIuMTc5MTg0NTY3MC4xNzkxODQ1NjY5*_ga*MzYzNDg0MTI4LjE3OTE4NDU2NzA.*_ga_CYE4LBPKXN*czE3OTE4NDU2NjkkbzEkZzAkdDE3OTE4NDU2NzAkajU5JGwwJGgw*_ga_12CJLLFFQT*czE3OTE4NDU2NjkkbzEkZzAkdDE3OTE4NDU2NzAkajU5JGwwJGgw
-
-  -
-https://secure.aspca.org/donate/ps-gn-p2?ms=MP_PMK_Googlenonbrand&initialms=MP_PMK_Googlenonbrand&pcode=WPSN7GO2PK02&lpcode=WPSN7GO1PK02&gclsrc=aw.ds&gad_source=1&gad_campaignid=1742381734&gbraid=0AAAAADp0NlVl5XkIzzMRKV8DXgADW-Mux&gclid=EAIaIQobChMIrvSH2cm1lwMV8FpHAR0X_yrMEAAYASAAEgJ6UfD_BwE
+-  https://www.stat.uchicago.edu/~stigler/Stat244/ch3withfigs.pdf ( multivariate distribution)
+-  https://people.vts.su.ac.rs/~pmiki/AI/NNDesign.pdf (Book on Neural Networks which helped me while I was learning basics, great book!)
+-  https://complex-analysis.com/content/table_of_contents.html (only for mathematics grad and undergrad)
 
 ---
 
