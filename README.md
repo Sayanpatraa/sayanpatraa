@@ -29,7 +29,7 @@ so, Before comparing metrics across libraries, make sure you're using the same p
 **As of Now** I have stopped using LinkedIn and do not have an account because most content feels like it was just written by AI. Please contact me over email if you have any queries. Thanks for understanding!
 Below are the listed workframes that I have worked with (might not be updated for long, so pardon me)
 
-**Things I find beautiful and might change about how you look at world :**
+**Things I find beautiful and might change about how you look at world (Only in my personal views):**
 - https://mathworld.wolfram.com/RiemannZetaFunction.html 
 - https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf (This will help you to know about Silicon Valley and its workings, great book!)
 - https://mwolf.pracownicy.uksw.edu.pl/MK/Dirac%20%20New%20notation%20for%20QM%201939.pdf (braket annotation and it is really interesting if you are ready to dive into quantum computing)
