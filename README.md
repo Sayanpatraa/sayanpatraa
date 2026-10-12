@@ -26,7 +26,7 @@ I generally write code in Python and rarely in R. Although I have worked with C 
 **Fun fact** I learned when I was first starting out with confusion matrices: Python's `scikit-learn` and R's `caret` can report different sensitivity and specificity scores even when you're using the same labels and predictions.The key difference is that `scikit-learn` arranges the confusion matrix with actual labels as rows and predicted labels as columns, while `caret` does the reverse. More importantly, `caret` treats the first factor level as the positive class by default. So, with factor levels `0, 1`, it treats `0` as positive unless you explicitly set `positive = "1"`.If you're calculating sensitivity and specificity for class `1` in Python but relying on `caret`'s default in R, the two scores can appear swapped.I learned this when I was going through the documentation while working on my assignment as a beginner. We even had a debate with my friend's because we were getting different scores!
 so, Before comparing metrics across libraries, make sure you're using the same positive class and interpreting the confusion matrix consistently.
 
-**As of Now** I have stopped using linked in and do not have an account because most contents feel like just written by AI. Please contact me over email if you have any queries . Thanks for understanding !
+**As of Now** I have stopped using LinkedIn and do not have an account because most content feels like it was just written by AI. Please contact me over email if you have any queries. Thanks for understanding!
 Below are the listed workframes that I have worked with (might not be updated for long, so pardon me)
 
 ---
