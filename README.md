@@ -29,6 +29,18 @@ so, Before comparing metrics across libraries, make sure you're using the same p
 **As of Now** I have stopped using LinkedIn and do not have an account because most content feels like it was just written by AI. Please contact me over email if you have any queries. Thanks for understanding!
 Below are the listed workframes that I have worked with (might not be updated for long, so pardon me)
 
+**Things I find beautiful and might change about how you look at world :**
+-  https://mathworld.wolfram.com/RiemannZetaFunction.html
+-  https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf
+-  https://mwolf.pracownicy.uksw.edu.pl/MK/Dirac%20%20New%20notation%20for%20QM%201939.pdf
+-  https://www.stat.uchicago.edu/~stigler/Stat244/ch3withfigs.pdf
+
+**Donate for a Cause**
+  -https://donate.cancer.org/campaign=incentivehubdefaultmedia&_gl=1*1i25xzr*_gcl_aw*R0NMLjE3OTE4NDU2NzAuQ2p3S0NBandpckxXQmhCQkVpd0FsSXRiRWhscXh6MzdJa2RMZlRYZmZDUnd1eE9hRmRxcGtpQXZXODZCcTFnRzc3MHlTVzdFVDlUVGNCb0NOTlVRQXZEX0J3..*_gcl_dc*R0NMLjE3OTE4NDU2NzAuQ2p3S0NBandpckxXQmhCQkVpd0FsSXRiRWhscXh6MzdJa2RMZlRYZmZDUnd1eE9hRmRxcGtpQXZXODZCcTFnRzc3MHlTVzdFVDlUVGNCb0NOTlVRQXZEX0J3RQ..*_gcl_au*MTI4MTg3NTMzOC4xNzkxODQ1NjcwLi0uLS4xNzkxODQ1NjY5LjExMzMyMjINTIuMTc5MTg0NTY3MC4xNzkxODQ1NjY5*_ga*MzYzNDg0MTI4LjE3OTE4NDU2NzA.*_ga_CYE4LBPKXN*czE3OTE4NDU2NjkkbzEkZzAkdDE3OTE4NDU2NzAkajU5JGwwJGgw*_ga_12CJLLFFQT*czE3OTE4NDU2NjkkbzEkZzAkdDE3OTE4NDU2NzAkajU5JGwwJGgw
+
+  -
+https://secure.aspca.org/donate/ps-gn-p2?ms=MP_PMK_Googlenonbrand&initialms=MP_PMK_Googlenonbrand&pcode=WPSN7GO2PK02&lpcode=WPSN7GO1PK02&gclsrc=aw.ds&gad_source=1&gad_campaignid=1742381734&gbraid=0AAAAADp0NlVl5XkIzzMRKV8DXgADW-Mux&gclid=EAIaIQobChMIrvSH2cm1lwMV8FpHAR0X_yrMEAAYASAAEgJ6UfD_BwE
+
 ---
 
 ##  Technical Skills  
