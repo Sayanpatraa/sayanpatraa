@@ -16,7 +16,7 @@
 
 ---
 ## About (Me):
-I am an individual with training in **Mathematics**, theoretical and applied experience in **Advanced Computer Vision**, **NLP**, **Time Series**, and **SNNs**.
+Individual with training in **Mathematics**, theoretical and applied experience in **Advanced Computer Vision**, **NLP**, **Time Series**, and **SNNs**.
 I generally write code in Python and rarely in R. Although I have worked with C and Julia in the past, my current work does not require the use of these languages now. I use MacOS and Linux for most of my work and like to work on optimization problems, signal processing, and non-differential games whenever I can sneak out some time from my traditional research. In my free time, I like to discuss business, trading related case studies, listen to violin, sitar, and sarod compositions, and read research papers related to current theoretical works (I am reading Ewin Tang's paper now). It is fascinating to me how we, humans, are trying to figure things out every day. I also like to study moduli spaces lectures by the genius Dr.Mirzakhani.
 
 **Things I find beautiful and might change about how you look at world (Only in my personal views):**
