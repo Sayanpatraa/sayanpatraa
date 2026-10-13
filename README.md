@@ -19,14 +19,6 @@
 I am an individual with training in **Mathematics**, theoretical and applied experience in **Advanced Computer Vision**, **NLP**, **Time Series**, and **SNNs**.
 I generally write code in Python and rarely in R. Although I have worked with C and Julia in the past, my current work does not require the use of these languages now. I use MacOS and Linux for most of my work and like to work on optimization problems, signal processing, and non-differential games whenever I can sneak out some time from my traditional research. In my free time, I like to discuss business, trading related case studies, listen to violin, sitar, and sarod compositions, and read research papers related to current theoretical works (I am reading Ewin Tang's paper now). It is fascinating to me how we, humans, are trying to figure things out every day. I also like to study moduli spaces lectures by the genius Dr.Mirzakhani.
 
-**Interesting fact about me:** I can play 3 different instruments, and I enjoy being in a space where I can grow and work with my own interests. I like to hike, go on walks, and gaze at the stars, trying to figure out what we are. I am presently searching for a cat to adopt, so please contact me if you know of any.
-
-**Fun fact** I learned when I was first starting out with confusion matrices: Python's `scikit-learn` and R's `caret` can report different sensitivity and specificity scores even when you're using the same labels and predictions.The key difference is that `scikit-learn` arranges the confusion matrix with actual labels as rows and predicted labels as columns, while `caret` does the reverse. More importantly, `caret` treats the first factor level as the positive class by default. So, with factor levels `0, 1`, it treats `0` as positive unless you explicitly set `positive = "1"`.If you're calculating sensitivity and specificity for class `1` in Python but relying on `caret`'s default in R, the two scores can appear swapped.I learned this when I was going through the documentation while working on my assignment as a beginner. We even had a debate with my friend's because we were getting different scores!
-so, Before comparing metrics across libraries, make sure you're using the same positive class and interpreting the confusion matrix consistently.
-
-**As of Now** I have stopped using LinkedIn and do not have an account because most content feels like it was just written by AI. Please contact me over email if you have any queries. Thanks for understanding!
-Below are the listed workframes that I have worked with (might not be updated for long, so pardon me)
-
 **Things I find beautiful and might change about how you look at world (Only in my personal views):**
 - https://mathworld.wolfram.com/RiemannZetaFunction.html 
 - https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf (This will help you to know about Silicon Valley and its workings, great book!)
@@ -34,6 +26,10 @@ Below are the listed workframes that I have worked with (might not be updated fo
 - https://www.stat.uchicago.edu/~stigler/Stat244/ch3withfigs.pdf (multivariate distribution)
 - https://people.vts.su.ac.rs/~pmiki/AI/NNDesign.pdf (Book on Neural Networks which helped me while I was learning basics, great book!)
 - https://complex-analysis.com/content/table_of_contents.html (Complex Analysis - only for mathematics grad and undergrad)
+
+
+**As of Now** I have stopped using LinkedIn and do not have an account because most content feels like it was just written by AI. Please contact me over email if you have any queries. Thanks for understanding!
+Below are the listed workframes that I have worked with (might not be updated for long, so pardon me)
 
 ---
 
@@ -177,6 +173,10 @@ Below are the listed workframes that I have worked with (might not be updated fo
 
 ---
 
+**Interesting fact about me:** I can play 3 different instruments, and I enjoy being in a space where I can grow and work with my own interests. I like to hike, go on walks, and gaze at the stars, trying to figure out what we are. I am presently searching for a cat to adopt, so please contact me if you know of any.
+
+**Fun fact** I learned when I was first starting out with confusion matrices: Python's `scikit-learn` and R's `caret` can report different sensitivity and specificity scores even when you're using the same labels and predictions.The key difference is that `scikit-learn` arranges the confusion matrix with actual labels as rows and predicted labels as columns, while `caret` does the reverse. More importantly, `caret` treats the first factor level as the positive class by default. So, with factor levels `0, 1`, it treats `0` as positive unless you explicitly set `positive = "1"`.If you're calculating sensitivity and specificity for class `1` in Python but relying on `caret`'s default in R, the two scores can appear swapped.I learned this when I was going through the documentation while working on my assignment as a beginner. We even had a debate with my friend's because we were getting different scores!
+so, Before comparing metrics across libraries, make sure you're using the same positive class and interpreting the confusion matrix consistently.
 ##  About This Portfolio  
 This portfolio highlights my technical skills, academic background, and research interest. 
 #### Note:   Contact me if you are currently interested to work with Diffusion Model Enhancements , MDE, Sensorimotor Receptors .
