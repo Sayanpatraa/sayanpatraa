@@ -20,15 +20,15 @@ Trained in **Mathematics**, theoretical and applied experience in **Advanced Com
 I generally write code in Python and rarely in R. Although I have worked with C and Julia in the past, my current work does not require the use of these languages now. I use MacOS and Linux for most of my work and like to work on optimization problems, signal processing, and non-differential games whenever I can sneak out some time from my traditional research. In my free time, I like to discuss business, trading related case studies, listen to violin, sitar, and sarod compositions, and read research papers related to current theoretical works (I am reading Ewin Tang's paper now). It is fascinating to me how we, humans, are trying to figure things out every day. I also like to study moduli spaces lectures by the genius Dr.Mirzakhani.
 
 **Things I find beautiful and might change about how you look at world (Only in my personal views):**
-- https://mathworld.wolfram.com/RiemannZetaFunction.html 
-- https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf (This will help you to know about Silicon Valley and its workings, great book!)
-- https://mwolf.pracownicy.uksw.edu.pl/MK/Dirac%20%20New%20notation%20for%20QM%201939.pdf (braket annotation and it is really interesting if you are ready to dive into the working of I, Pauli-X (X), Pauli-Y (Y), Pauli-Z (Z), Hadamard (H), Phase (S), T , Controlled-NOT (CNOT), Controlled-Z (CZ), Swap (SWAP), Toffoli (CCNOT), and Fredkin (CSWAP)..)
-- https://www.stat.uchicago.edu/~stigler/Stat244/ch3withfigs.pdf (multivariate distribution)
-- https://people.vts.su.ac.rs/~pmiki/AI/NNDesign.pdf (Book on Neural Networks which helped me while I was learning basics, great book!)
-- https://complex-analysis.com/content/table_of_contents.html (Complex Analysis - only for mathematics grad and undergrad)
+- [Zeta Function](https://mathworld.wolfram.com/RiemannZetaFunction.html)
+- Peter Thiel's [Zero to One](https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf) (This will help you to know about what matters  and its works, great book!)
+- Dirac's 1939 [New Notation for Quantum Mechanics](https://mwolf.pracownicy.uksw.edu.pl/MK/Dirac%20%20New%20notation%20for%20QM%201939.pdf)  (braket annotation and it is really interesting if you are ready to dive into the working of I, Pauli-X (X), Pauli-Y (Y), Pauli-Z (Z), Hadamard (H), Phase (S), T , Controlled-NOT (CNOT), Controlled-Z (CZ), Swap (SWAP), Toffoli (CCNOT), and Fredkin (CSWAP)..)
+- Understand [Multivariate Distributions](https://www.stat.uchicago.edu/~stigler/Stat244/ch3withfigs.pdf)
+- [Neural Network Design](https://people.vts.su.ac.rs/~pmiki/AI/NNDesign.pdf) (Book on Neural Networks which helped me while I was learning basics, great book!)
+- [Complex Analysis](https://complex-analysis.com/content/table_of_contents.html)(only for mathematics and engineering grad and undergrad)
 
 
-**As of Now** I have stopped using LinkedIn and do not have an account because most content feels like it was just written by AI. Please contact me over email if you have any queries. Thanks for understanding!
+**As of Now** I have stopped using LinkedIn and do not have an account because most content feels like it was just written by AI. Please contact me over [email](mailto:sayan.patra@gwu.edu) if you want to get in touch or collaborate. Thanks for understanding!
 Below are the listed workframes that I have worked with (might not be updated for long, so pardon me)
 
 ---
