@@ -28,7 +28,7 @@ I generally write code in Python and rarely in R. Although I have worked with C 
 - [Complex Analysis](https://complex-analysis.com/content/table_of_contents.html)(only for mathematics and engineering grad and undergrad)
 
 
-**As of Now** I have stopped using LinkedIn and do not have an account because most content feels like it was just written by AI. Please contact me over [email](mailto:sayan.patra@gwu.edu) if you want to get in touch or collaborate. Thanks for understanding!
+**As of Now** I have stopped using LinkedIn and do not have an account because most content feels like it was just written with the help LLMs. Please contact me over [email](mailto:sayan.patra@gwu.edu) if you want to get in touch or collaborate. Thanks for understanding!
 Below are the listed workframes that I have worked with (might not be updated for long, so pardon me)
 
 ---
