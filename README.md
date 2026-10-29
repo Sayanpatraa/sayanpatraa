@@ -26,7 +26,7 @@ I generally write code in Python and rarely in R. Although I have worked with C 
 - Understand [Multivariate Distributions](https://www.stat.uchicago.edu/~stigler/Stat244/ch3withfigs.pdf)
 - [Neural Network Design](https://people.vts.su.ac.rs/~pmiki/AI/NNDesign.pdf) (Book on Neural Networks which helped me while I was learning basics, great book!)
 - [Complex Analysis](https://complex-analysis.com/content/table_of_contents.html)(only for mathematics and engineering grad and undergrad)
-
+- I believe if T can be stretched to infinity then 1/T tends to 0. So, remember that your t is unkown and you just dont know what (T-t) which also runs to  is for you so use yours wisely and stop comparing yourself! and in 4 Dimensional manifold when time opens as orthogonal position everything is relative in that section of topology. So, your life is yours!
 
 **As of Now** I have stopped using LinkedIn and do not have an account because most content feels like it was just written with the help of LLMs. Please contact me over [email](mailto:sayan.patra@gwu.edu) if you want to get in touch or collaborate. Thanks for understanding!
 Below are the listed workframes that I have worked with (might not be updated for long, so pardon me)
